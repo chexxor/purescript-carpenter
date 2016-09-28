@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "purescript-react": "^1.1.0",
+    "purescript-react": "git://github.com/chexxor/purescript-react#b95d4b20e6bbd88a14d0871673c347f3cb972898",
     "purescript-aff": "^1.1.0"
   }
 }
